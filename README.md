@@ -4,7 +4,7 @@ I developed an attractive business website for Arctic HVAC, an air conditioning 
 
 Arctic HVAC is a professional and user-friendly website developed for Arctic HVAC, a leading air conditioning business. Built on the **BigCommerce** platform, this website highlights the company's residential and commercial HVAC services through an elegant and functional design.
 
-![Arctic HVAC Overview](https://github.com/user-attachments/assets/arctic-hvac-banner.png)
+![Artboard 1 (3)](https://github.com/user-attachments/assets/d4a4670b-ea13-4a7b-af00-34f8076156b0)
 
 ## 🛠 Project Overview
 
@@ -12,7 +12,7 @@ The Arctic HVAC Business Website provides a seamless online experience for custo
 
 Website URL: [Arctic HVAC](https://arcticairhvacr.com/)
 
-![Arctic HVAC Services](https://github.com/user-attachments/assets/arctic-hvac-services.png)
+![Artboard 1 (4)](https://github.com/user-attachments/assets/7d109d3b-8bd4-4c99-a64b-2e4d8d15ab51)
 
 ## 🚀 Key Functionalities Developed
 
