@@ -28,10 +28,6 @@ Website URL: [Arctic HVAC](https://arcticairhvacr.com/)
 - **Responsive Design:**
   - Fully optimized for mobile, tablet, and desktop devices to deliver a seamless experience on all platforms.
 
-- **SEO Optimization:**
-  - Implemented HVAC-specific keywords and metadata to improve search rankings.
-  - Added optimized alt tags for better visibility on search engines.
-
 - **BigCommerce Customization:**
   - Leveraged BigCommerce’s robust platform for scalability and future growth.
   - Customized themes and plugins for enhanced functionality and usability.
